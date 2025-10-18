@@ -5,10 +5,13 @@ If you execute or run the program in the terminal, it will give you output in th
 
 # Pacakages to be installed
 1. speechrecognition - for capturing your audio, process the audio to detect spoken words, return the spoken words as text.
+
 command - python3 -m pip install speechrecognition (No problem if already installed, it will install at the location of the file)
 
 2. pyttsx3
+
 command - python3 -m pip install pyttsx3
 
-3. PyAudio
+4. PyAudio
+
 command - python3 -m pip install pyaudio
